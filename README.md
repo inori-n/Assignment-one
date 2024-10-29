@@ -21,11 +21,6 @@
 - [Node.js](https://nodejs.org/)
 - [MySQL](https://www.mysql.com/)
 
-### 克隆项目
-```bash
-git clone https://github.com/yourusername/contact-management-system.git
-cd contact-management-system
-```
 ## 特性
 - 添加新联系人
 - 查看联系人列表
@@ -36,20 +31,14 @@ cd contact-management-system
 ## 技术栈
 - **前端**: HTML, CSS, JavaScript
 - **后端**: Node.js, Express
-- **数据库**: PostgreSQL 或 MySQL
+- **数据库**: MySQL
 
 ## 安装与使用
 
 ### 先决条件
 确保已安装以下软件：
 - [Node.js](https://nodejs.org/)
-- [PostgreSQL](https://www.postgresql.org/) 或 [MySQL](https://www.mysql.com/)
-
-### 克隆项目
-bash
-git clone https://github.com/yourusername/contact-management-system.git
-
-cd contact-management-system
+- [MySQL](https://www.mysql.com/)
 
 ### 启动项目
 打开bin文件夹，打开终端
