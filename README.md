@@ -52,6 +52,8 @@ git clone https://github.com/yourusername/contact-management-system.git
 cd contact-management-system
 
 ### 启动项目
-npm start
-
-访问 http://localhost:5439 查看应用
+打开bin文件夹，打开终端
+输入：npm start
+Enter 运行
+终端显示访问 http://localhost:5439 
+打开address.html查看应用
