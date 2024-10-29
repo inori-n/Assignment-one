@@ -12,7 +12,7 @@
 ## 技术栈
 - **前端**: HTML, CSS, JavaScript
 - **后端**: Node.js, Express
-- **数据库**: PostgreSQL 或 MySQL
+- **数据库**:  MySQL
 
 ## 安装与使用
 
